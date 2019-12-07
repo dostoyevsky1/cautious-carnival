@@ -1,2 +1,2 @@
 # cautious-carnival
-Machine Learning five method comparison project using Home Credit Default Risk data (https://www.kaggle.com/c/home-credit-default-risk/data)
+Machine Learning multiple method comparison project using IEEE-CIS Fraud Detection data (https://www.kaggle.com/c/ieee-fraud-detection/data)
